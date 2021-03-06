@@ -14,3 +14,4 @@ This algorithm has been made with C++.
 in the txt file once encrypted :
 euokn6*.2-,1.a,11].,a.+1,5+3+,-6)jk_gbld*dj-k_]c]`ie+b`_jpiup
 
+https://github.com/Tonito75/bankaccount/issues/1#issue-823626614
