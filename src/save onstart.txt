@@ -1,0 +1,9 @@
+@Override
+    public void onStart(){
+        super.onStart();
+        //Flush();
+        //String s  = EnCodeURL("https://60102f166c21e10017050128.mockapi.io/labbbank/accounts/1") + "-end-" +EnCodeURL("Georgiana")+ "-end-" +EnCodeURL("Maggio");
+        //System.out.println("On envoie : " + s);
+        //Write(s);
+        System.out.println(Read());
+    }
